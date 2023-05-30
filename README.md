@@ -47,4 +47,3 @@ The mallet is used to play the Air Piano. Users hold the mallet and place it ove
 ## Thank You!
 
 We hope you enjoy playing the Air Piano!
-``
